@@ -1,0 +1,4 @@
+enum MeuSistema{
+  iOS,
+  android
+}
